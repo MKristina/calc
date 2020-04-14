@@ -1,0 +1,2854 @@
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start calculating
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start parsing
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Successful'
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start parsing
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Successful'
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start parsing
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start 'SQRT []
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Successful'
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start parsing
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Start 'PRINT []
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Successful'
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Result is: 
+мар. 16, 2020 7:20:53 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: production\PlusTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: production\MinusTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: test\resources\DefineTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: production\DivTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: production\BadSqrt.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:01:13 PM MyLog error
+INFO: production\MultTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: production\PlusTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: production\MinusTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: resources\DefineTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: production\DivTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: production\BadSqrt.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:02:09 PM MyLog error
+INFO: production\MultTest.txt (Системе не удается найти указанный путь)
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:12:14 PM MyLog error
+INFO: src\test\resources\SubTest.txt (Не удается найти указанный файл)
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:14 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:12:14 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:12:15 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:12:15 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:12:15 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:12:16 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:16:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:16:03 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:16:03 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:16:04 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:16:04 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:16:04 PM MyLog error
+INFO: src\test\resources\SubTest.txt (Не удается найти указанный файл)
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:16:04 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:17:51 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:17:51 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:17:52 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:17:52 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:17:52 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:18:21 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:21 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:22 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:18:22 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:22 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:18:42 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:18:42 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:18:43 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:18:43 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [9]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:18:43 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:22:59 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:40 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:23:56 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:24:34 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:29:56 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Start 'PRINT []
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:30:24 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:31:38 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:31:38 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:31:38 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [9]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:31:38 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:31:39 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:33:12 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:33:12 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:33:13 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:33:13 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:33:13 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:22 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:34:23 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:34:23 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:34:23 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:34:23 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:45:31 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 4]
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start 'PUSH [8]
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Start 'PRINT []
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:45:32 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:46:00 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 3]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'DEFINE [a, 1]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'DEFINE [aa, 2]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [aa]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [a]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH []
+апр. 14, 2020 10:46:01 PM MyLog error
+INFO: ArgException: invalid arg null
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [1000]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [-10]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [0.2]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [-1]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [0]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '/ []
+апр. 14, 2020 10:46:01 PM MyLog error
+INFO: MathException: Division by zero
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [10]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'PUSH [-5]
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start '* []
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:01 PM MyLog getIfo
+INFO: Start 'SQRT []
+апр. 14, 2020 10:46:02 PM MyLog error
+INFO: MathException: NegativeSQRT from -50.0
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '- []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful calculating
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start calculating
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [1]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [2]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [3]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [4]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start 'PUSH [5]
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start parsing
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Start '+ []
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful'
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Result is: 
+апр. 14, 2020 10:46:02 PM MyLog getIfo
+INFO: Successful calculating
