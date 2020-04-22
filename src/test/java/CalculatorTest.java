@@ -1,113 +1,66 @@
+import Commands.AdditionCommand;
+import Commands.DefineCommand;
+import Commands.PushCommand;
 import Context.CalcContext;
 import Exceptions.ArgExceptions;
 import Exceptions.EmptyStackExceptions;
+import Exceptions.InvalidArgsExceptions;
 import Exceptions.MyException;
+import com.sun.org.apache.xerces.internal.xs.StringList;
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+import static org.junit.Assert.*;
 
 public class CalculatorTest {
-
     @Test
+    public void PushTest() throws MyException {
+
+        CalcContext context = new CalcContext();
+        PushCommand pushCom = new PushCommand();
+        List<String> args = new ArrayList<>();
+        args.add("123");
+        pushCom.execute(context, args);
+        assertFalse(context.isEmpty());
+        assertEquals(123, context.getValue(), 0.0);
+    }
+    @Test
+    public void AdditionTest() throws MyException {
+
+        CalcContext context = new CalcContext();
+        List<String> args = new ArrayList<>();
+        context.push(3.0);
+        context.push(9.0);
+        AdditionCommand add = new AdditionCommand();
+        add.execute(context, args);
+        assertEquals(12, context.getValue(), 0.0);
+    }
+    @Test
+    public void DefineTest() throws MyException {
+
+        CalcContext context = new CalcContext();
+        List<String> args = new ArrayList<>();
+        args.add("a");
+        args.add("4");
+        DefineCommand def = new DefineCommand();
+        def.execute(context, args);
+        assertEquals(4, context.getValueByKey("a"), 0.0);
+    }
+
+  /*  @Test
     public void PUSHandPOPTest() throws EmptyStackExceptions {
         CalcContext context = new CalcContext();
 
         for (double i = 0; i < 100; i++) {
             context.push(i);
         }
-
         assert (context.size() == 100);
-
         for (double i = 0; i < 100; i++) {
             context.pop();
         }
-
         assert (context.isEmpty());
     }
-
-    @Test
-    public void DEFINETest() throws ArgExceptions, EmptyStackExceptions {
-        CalcContext context = new CalcContext();
-
-        String[] str = {"one", "two", "three", "four", "five", "six"};
-        Double[] num = {1.0, 2.0, 3.0, 4.0, 5.0, 6.0};
-
-        for (int i = 0; i < 6; i++) {
-            context.setDefinitions(str[i], num[i].toString());
-        }
-
-        for (int i = 0; i < 6; i++) {
-            context.push(str[i]);
-            context.push(num[i]);
-        }
-        assert (context.size() == 12);
-
-        for (int i = 0; i < 6; i++) {
-            double a = context.pop();
-            double b = context.pop();
-
-            assert (a == b);
-        }
-    }
-
-    @Test
-    public void DefTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/DefineTest.txt");
-        assert (calculator.context.pop() == 1);
-        assert (calculator.context.pop() == 2);
-        assert (calculator.context.pop() == 3);
-        assert (calculator.context.isEmpty());
-
-        Calculator calculator2 = new Calculator();
-        calculator2.calculate("src/test/resources/NoArgTest.txt");
-        assert (calculator2.isException);
-    }
-
-    @Test
-    public void AddTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/AddTest.txt");
-        assert(calculator.context.pop() == 15);
-        assert(calculator.context.isEmpty());
-    }
-
-    @Test
-    public void SubTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/SubTest.txt");
-        assert(calculator.context.pop() == 3);
-        assert(calculator.context.isEmpty());
-    }
-
-    @Test
-    public void MulTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/MulTest.txt");
-        assert(calculator.context.pop() == 10);
-        assert(calculator.context.isEmpty());
-    }
-
-    @Test
-    public void DivTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/DivTest.txt");
-        assert(calculator.context.pop() == 4);
-
-        calculator.calculate("src/test/resources/BadDivTest.txt");
-        assert(calculator.isException);
-    }
-
-    @Test
-    public void SqrtTest() throws MyException, ClassNotFoundException {
-        Calculator calculator = new Calculator();
-
-        calculator.calculate("src/test/resources/BadSqrtTest.txt");
-        assert(calculator.isException);
-    }
+*/
 
 }

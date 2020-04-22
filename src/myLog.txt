@@ -1,0 +1,36 @@
+���. 22, 2020 7:49:57 PM main main
+INFO: Start calculating
+���. 22, 2020 7:49:57 PM main main
+INFO: Create from prog.txt 
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start calculating
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start parsing
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start 'DEFINE [a, 4]
+���. 22, 2020 7:49:57 PM Calculator calculate
+FINE: Successful'
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start parsing
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start 'PUSH [a]
+���. 22, 2020 7:49:57 PM Calculator calculate
+FINE: Successful'
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start parsing
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start 'SQRT [a]
+���. 22, 2020 7:49:57 PM Calculator calculate
+FINE: Successful'
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start parsing
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Start 'PRINT []
+���. 22, 2020 7:49:57 PM Calculator calculate
+FINE: Successful'
+���. 22, 2020 7:49:57 PM Calculator calculate
+INFO: Result is: 
+���. 22, 2020 7:49:57 PM Calculator calculate
+FINE: Successful calculating
+���. 22, 2020 7:49:57 PM main main
+FINEST: Successful calculating

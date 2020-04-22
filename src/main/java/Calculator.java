@@ -4,12 +4,15 @@ import Exceptions.MyException;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InvalidObjectException;
 import java.util.*;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 
 public class Calculator {
-    private static final MyLog log = new MyLog();
-
+    private static final Logger log = Logger.getLogger(Calculator.class.getName());
     CalcContext context;
     CommandsFactory commandsFactory;
     boolean isException = false;
@@ -18,14 +21,12 @@ public class Calculator {
         context = new CalcContext();
         commandsFactory = new CommandsFactory();
     }
-    public void calculate(String fileName) throws MyException, ClassNotFoundException {
+    public void calculate(Scanner scanner) throws MyException {
 
-        try {
-            Scanner scanner = fileName.equals("") ? new Scanner(System.in) : new Scanner(new File(fileName));
-            log.getIfo("Start calculating");
+        log.log(Level.INFO, "Start calculating");
 
             while (scanner.hasNextLine()) {
-               log.getIfo("Start parsing");
+               log.log(Level.INFO, "Start parsing");
 
                 String commandName;
                 List<String> args = null;
@@ -37,22 +38,18 @@ public class Calculator {
                     args = words.subList(1, words.size());
 
                 if (args == null) args = Collections.singletonList("");
-               log.getIfo("Start '" + commandName + " " + args);
+               log.log(Level.INFO, "Start '" + commandName + " " + args);
 
                 Command com = commandsFactory.getCommand(commandName);
                 com.execute(context, args);
 
-               log.getIfo("Successful'");
+               log.log(Level.FINE, "Successful'");
             }
             if (!context.isEmpty()) {
-               log.getIfo("Result is: ");
+               log.log(Level.INFO, "Result is: ");
                 context.print();
             }
-            log.getIfo("Successful calculating");
-        } catch (MyException | FileNotFoundException e){
-            isException = true;
-           log.error(e);
-        }
+            log.log(Level.FINE, "Successful calculating");
     }
 
 }

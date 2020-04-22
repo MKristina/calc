@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Properties;
 
 public class CommandsFactory {
-    private static CommandsFactory commandsFactory;
+    private static volatile CommandsFactory commandsFactory;
     private final Properties properties = new Properties();
 
     CommandsFactory() {
@@ -18,25 +18,23 @@ public class CommandsFactory {
     }
 
     private static CommandsFactory getCommandsFactory() {
-        if (commandsFactory == null)
-            commandsFactory = new CommandsFactory();
-
+        if (commandsFactory == null){
+            synchronized (ClassLoader.class){
+                if(commandsFactory == null){
+                    commandsFactory = new CommandsFactory();
+                }
+            }
+        }
         return commandsFactory;
     }
 
-    public Command getCommand(String commandName) throws ClassNotFoundException {
+    public Command getCommand(String commandName) {
         Command command = null;
         String  name;
         try {
             if ((name = properties.getProperty(commandName)) == null) throw new InvalidCommandExceptions(commandName);
             command = (Command) Class.forName(name).getDeclaredConstructor().newInstance();
-        } catch (InstantiationException | InvalidCommandExceptions e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
-            e.printStackTrace();
-        } catch (NoSuchMethodException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
+        } catch ( Exception e) {
             e.printStackTrace();
         }
 

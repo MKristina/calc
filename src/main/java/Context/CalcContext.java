@@ -9,19 +9,17 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class CalcContext {
-    private Stack<Double> stack;
-    private HashMap<String, Double> definitions;
+    public Stack<Double> stack;
+    public HashMap<String, Double> definitions;
 
     public CalcContext() {
         stack = new Stack<>();
         definitions = new HashMap<>();
     }
 
-    public void setDefinitions(String name, String value) throws InvalidArgsExceptions {
-        double num;
+    public void setDefinitions(String name, double value) throws InvalidArgsExceptions {
         try {
-            num = Double.parseDouble(value);
-            definitions.put(name, num);
+            definitions.put(name, value);
         } catch (NumberFormatException e) {
             throw new InvalidArgsExceptions("DEFINE " + value);
         }
@@ -29,28 +27,12 @@ public class CalcContext {
 
     public Double pop() throws EmptyStackExceptions {
         if (stack.isEmpty()) throw new EmptyStackExceptions();
-
         return stack.pop();
     }
 
     public void push(Double value) {
         stack.push(value);
     }
-
-    public void push(String  name) throws ArgExceptions {
-        Double  value;
-
-        try {
-            value = Double.parseDouble(name);
-            push(value);
-        } catch (NumberFormatException e) {
-            value = definitions.get(name);
-
-            if (value == null) throw new InvalidArgsExceptions("null");
-            stack.push(value);
-        }
-    }
-
     public boolean isEmpty() { return stack.isEmpty(); }
 
     public int size() { return stack.size(); }
@@ -60,5 +42,10 @@ public class CalcContext {
         System.out.println(stack.peek());
     }
 
-
+    public Double getValue(){
+        return stack.peek();
+    }
+    public Double getValueByKey(String key) {
+        return definitions.get(key);
+    }
 }

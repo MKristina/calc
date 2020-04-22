@@ -1,9 +1,0 @@
-PUSH 1000
-PUSH -10
-PUSH 0.2
-PUSH 5
-PUSH -1
-/
-/
-/
-/
