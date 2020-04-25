@@ -1,12 +1,11 @@
 import Commands.Command;
 import Context.CalcContext;
 import Exceptions.MyException;
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InvalidObjectException;
-import java.util.*;
+import Exceptions.PropertiesExceptions;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -17,7 +16,7 @@ public class Calculator {
     CommandsFactory commandsFactory;
     boolean isException = false;
 
-    public Calculator() {
+    public Calculator() throws PropertiesExceptions {
         context = new CalcContext();
         commandsFactory = new CommandsFactory();
     }

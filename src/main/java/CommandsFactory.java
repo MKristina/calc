@@ -1,23 +1,22 @@
 import Commands.Command;
 import Exceptions.InvalidCommandExceptions;
-
+import Exceptions.PropertiesExceptions;
 import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
 import java.util.Properties;
 
 public class CommandsFactory {
     private static volatile CommandsFactory commandsFactory;
     private final Properties properties = new Properties();
 
-    CommandsFactory() {
+    CommandsFactory() throws PropertiesExceptions {
         try {
             properties.load(Calculator.class.getResourceAsStream("/commands.properties"));
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new PropertiesExceptions("command properties");
         }
     }
 
-    private static CommandsFactory getCommandsFactory() {
+    private static CommandsFactory getCommandsFactory() throws PropertiesExceptions {
         if (commandsFactory == null){
             synchronized (ClassLoader.class){
                 if(commandsFactory == null){

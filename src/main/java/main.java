@@ -1,4 +1,5 @@
 import Exceptions.MyException;
+import Exceptions.PropertiesExceptions;
 
 import java.io.FileNotFoundException;
 import java.nio.file.Paths;
@@ -11,13 +12,13 @@ import java.util.logging.Logger;
 public class main {
     public static Logger log = Logger.getLogger(main.class.getName());
 
-    public static void Main(String[] args) throws IOException, MyException, ClassNotFoundException {
+    public static void Main(String[] args) throws IOException, MyException {
 
         try {
             LogManager.getLogManager().readConfiguration(
                     main.class.getResourceAsStream("/logging.properties"));
         } catch (IOException e) {
-            System.err.println("Could not setup logger configuration: " + e.toString());
+           throw new PropertiesExceptions("logging properties");
         }
 
         String inputName = null;

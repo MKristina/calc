@@ -1,36 +1,36 @@
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM main main
+апр. 25, 2020 6:41:16 PM main main
 INFO: Start calculating
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM main main
+апр. 25, 2020 6:41:17 PM main main
 INFO: Create from prog.txt 
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start calculating
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start parsing
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start 'DEFINE [a, 4]
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 FINE: Successful'
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start parsing
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start 'PUSH [a]
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 FINE: Successful'
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start parsing
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start 'SQRT [a]
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 FINE: Successful'
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start parsing
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Start 'PRINT []
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 FINE: Successful'
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 INFO: Result is: 
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM Calculator calculate
+апр. 25, 2020 6:41:17 PM Calculator calculate
 FINE: Successful calculating
-пїЅпїЅпїЅ. 22, 2020 7:49:57 PM main main
+апр. 25, 2020 6:41:17 PM main main
 FINEST: Successful calculating

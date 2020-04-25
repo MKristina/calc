@@ -20,9 +20,9 @@ public class PushCommand implements Command {
             value = Double.parseDouble(args.get(0));
             context.push(value);
         } catch (NumberFormatException e) {
-            value = context.definitions.get(args.get(0));
+            value = context.getValueByKey(args.get(0));
             if (value == null) throw new InvalidArgsExceptions("null");
-            context.stack.push(value);
+            context.push(value);
         }
     }
     }

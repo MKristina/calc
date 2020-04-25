@@ -1,27 +1,25 @@
 package Context;
 
-import Exceptions.ArgExceptions;
 import Exceptions.EmptyStackExceptions;
-import Exceptions.InvalidArgsExceptions;
-
 import java.util.EmptyStackException;
 import java.util.HashMap;
 import java.util.Stack;
 
 public class CalcContext {
-    public Stack<Double> stack;
-    public HashMap<String, Double> definitions;
+    private Stack<Double> stack;
+    private HashMap<String, Double> definitions;
 
     public CalcContext() {
         stack = new Stack<>();
         definitions = new HashMap<>();
     }
 
-    public void setDefinitions(String name, double value) throws InvalidArgsExceptions {
-        try {
+    public void setDefinitions(String name, double value){
+        if (definitions.containsKey(name)) {
+            definitions.replace(name, value);
+        }
+        else {
             definitions.put(name, value);
-        } catch (NumberFormatException e) {
-            throw new InvalidArgsExceptions("DEFINE " + value);
         }
     }
 
